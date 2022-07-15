@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kiener.thomas@gmail.com
+	name = ThomasKiener
